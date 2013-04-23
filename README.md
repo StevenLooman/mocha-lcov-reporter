@@ -3,7 +3,7 @@ mocha-lcov-reporter
 
 LCOV reporter for Mocha.
 
-LCOV format can be found in this [geninfo manpage](http://ltp.sourceforge.net/coverage/lcov/geninfo.1.php). This LCOV reporter was built after [Sonar Javascript Plugin LCOVParser class](https://raw.github.com/SonarCommunity/sonar-javascript/master/sonar-javascript-plugin/src/main/java/org/sonar/plugins/javascript/coverage/LCOVParser.java).
+LCOV format can be found in this [geninfo manpage](http://ltp.sourceforge.net/coverage/lcov/geninfo.1.php). This LCOV reporter was built after [Sonar Javascript Plugin LCOVParser class](https://github.com/SonarCommunity/sonar-javascript/blob/master/sonar-javascript-plugin/src/main/java/org/sonar/plugins/javascript/lcov/LCOVParser.java).
 
 Usage
 =====
