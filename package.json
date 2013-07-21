@@ -1,7 +1,7 @@
 {
     "name": "mocha-lcov-reporter",
     "description": "LCOV reporter for Mocha",
-    "version": "0.0.1",
+    "version": "0.0.2-dev",
     "author": "Steven Looman <steven.looman@gmail.com>",
     "keywords": [ "mocha", "reporter", "lcov", "coverage" ],
     "licenses" : [
