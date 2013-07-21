@@ -7,7 +7,7 @@
     "licenses" : [
         {
             "type": "2-clause BSD",
-            "url": "https://raw.github.com/StevenLooman/mco/master/LICENSE"
+            "url": "https://raw.github.com/StevenLooman/mocha-lcov-reporter/master/LICENSE"
         }
     ],
 
