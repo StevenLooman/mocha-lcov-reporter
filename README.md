@@ -12,7 +12,7 @@ The mocha-lcov-reporter is a reporter for mocha. In order to get coverage data, 
 
 - Install [node-jscoverage](https://github.com/visionmedia/node-jscoverage)
 - Instrument your library with node-jscoverage
-- Run your tests against your instrumented libraray and save the output
+- Run your tests against your instrumented library and save the output
 
 For example, the following script can be part of your build process:
 
