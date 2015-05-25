@@ -4,13 +4,7 @@
     "version": "0.0.3-dev",
     "author": "Steven Looman <steven.looman@gmail.com>",
     "keywords": [ "mocha", "reporter", "lcov", "coverage" ],
-    "licenses" : [
-        {
-            "type": "2-clause BSD",
-            "url": "https://raw.github.com/StevenLooman/mocha-lcov-reporter/master/LICENSE"
-        }
-    ],
-
+    "license": "BSD-2-Clause",
     "dependencies": {
     },
     "devDependencies": {
