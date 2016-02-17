@@ -62,6 +62,11 @@ sed 's,SF:,SF:lib/,' coverage/coverage_temp.lcov > coverage/coverage.lcov
 
 The reason this is that `jscover` runs on the directory you specify (e.g., `lib/`) and regards that as the root for the project.
 
+Blanket support
+===============
+
+[Blanket.js](http://blanketjs.org/) can be used as well. After the lcov file, be sure to fix the paths for the covered files. The path will be an URL, having `file:` as its protocol. Using the same manner as above, the path can be fixed using `sed`.
+
 Example output
 ==============
 
