@@ -1,3 +1,9 @@
+## 1.3.0 (Feb 21 2017)
+
+Changes:
+
+- Make writing to output monkey-patchable. (#16)
+
 ## 1.2.0 (Feb 21 2016)
 
 Changes:
